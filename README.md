@@ -1,2 +1,3 @@
 # hello-world
-My first GitHub repository. Learning the ropes.
+Balaji Krishnaurty's first GitHub repository.
+
